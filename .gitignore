@@ -81,3 +81,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.c~
+irsim/irsim.pyc
+*.pyc
+tags
+scanner
+parser
+out.s
