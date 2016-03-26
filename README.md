@@ -1,5 +1,5 @@
 # compiler
-..
+..  
 lexical.l: lexical analysis  
 syntax.y: parsing  
 semantic.c: semantic analysis  
